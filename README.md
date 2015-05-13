@@ -1,2 +1,2 @@
 # bandicoot-loki
-The bandicoot service injector type for loki
+A bandicoot plugin for injecting loki databases into bandicoot services
